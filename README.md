@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am currently a 3 months training by the I4GZuri Team as a as a python backend developer.
 
-<!--
 **ReamaGeorge/ReamaGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
